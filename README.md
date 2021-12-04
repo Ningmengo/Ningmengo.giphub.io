@@ -1,7 +1,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <html>
-<head>
-<style type= "text/css">
+<head style type= "text/css">
+
 body{background-color: yellow}
 </style>
 <title>pokemon</title>
