@@ -21,7 +21,7 @@ body{background-color: yellow}
 <li> 杰尼龟 <div align="center"><img src ="file:///C:/Users/korey/Desktop/bkm/%E6%9D%B0%E5%B0%BC%E9%BE%9F.png" alt="杰尼龟” width="300" height="300" ></div> 
 </li><dd style = "color:blue"> 水枪  </dd> <dd style= "color: gray"> 撞击</dd> <dd style= "color: grey">摇尾巴</dd> <dd style="color:blue">缩入壳中</dd>
 <br>
-<li> 妙蛙种子 <div align = "center"><img src= "file:///C:/Users/korey/Desktop/bkm/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90.png" alt="妙蛙种子" width="300" height="300"</div>	 
+<li> 妙蛙种子 <div align = "center"><img src= "https://github.com/Ningmengo/Ningmengo.giphub.io/blob/main/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90.png" alt="妙蛙种子" width="300" height="300"</div>	 
 </li><dd style = "color:green"> 藤鞭</dd> <dd style="color: grey">撞击</dd> <dd style="color:grey">生长</dd> <dd style="color:grey">叫声</dd> 
 <br>
 <span style="font-size:18px;">蚌埠住了，写完技能才就看到可以并排打印的span....前面每一个技能都用的dd(definition description) 
